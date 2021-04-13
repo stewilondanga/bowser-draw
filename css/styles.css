@@ -1,3 +1,7 @@
+body {
+  background: #000;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -107,9 +111,6 @@
   transition-delay: 0.4s;
 }
 
-body {
-  background: #000;
-}
 table {
   margin: 0 auto;
 }
